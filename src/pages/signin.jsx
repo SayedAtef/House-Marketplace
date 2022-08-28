@@ -85,7 +85,6 @@ function Signin() {
         </form>
 
         <OAuth />
-
         <Link to="/signup" className="registerLink">
           Sign Up Instead
         </Link>
